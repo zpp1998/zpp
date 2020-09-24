@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+    {
+      "id": 1,
+      "marjor": "软件工程",
+      "session": "2017",
+      "classnum": "1",
+      "sno": "00001",
+      "sname": "马杰",
+      "tel": "15358426589",
+      "isGetJob": "是"
+
+    },
+    {
+      "id": 2,
+      "marjor": "软件工程",
+      "session": "2017",
+      "classnum": "1",
+      "sno": "00002",
+      "sname": "王帅",
+      "tel": "13596754926",
+      "isGetJob": "是"
+
+    }, {
+      "id": 3,
+      "marjor": "软件工程",
+      "session": "2017",
+      "classnum": "1",
+      "sno": "00003",
+      "sname": "张森",
+      "tel": "13059756642",
+      "isGetJob": "是"
+
+    }, {
+      "id": 4,
+      "marjor": "软件工程",
+      "session": "2017",
+      "classnum": "1",
+      "sno": "00004",
+      "sname": "李天赐",
+      "tel": "15987455637",
+      "isGetJob": "是"
+
+    }, {
+      "id": 5,
+      "marjor": "软件工程",
+      "session": "2017",
+      "classnum": "1",
+      "sno": "00005",
+      "sname": "徐其康",
+      "tel": "15696477852",
+      "isGetJob": "是"
+
+    }, {
+      "id": 6,
+      "marjor": "软件工程",
+      "session": "2017",
+      "classnum": "2",
+      "sno": "10001",
+      "sname": "王鹏升",
+      "tel": "16972105478",
+      "isGetJob": "是"
+
+    }, {
+      "id": 7,
+      "marjor": "软件工程",
+      "session": "2017",
+      "classnum": "2",
+      "sno": "10002",
+      "sname": "王纪康",
+      "tel": "15996347580",
+      "isGetJob": "是"
+
+    }, {
+      "id": 8,
+      "marjor": "软件工程",
+      "session": "2017",
+      "classnum": "2",
+      "sno": "10003",
+      "sname": "刘志杰",
+      "tel": "14587963257",
+      "isGetJob": "是"
+
+    }, {
+      "id": 9,
+      "marjor": "软件工程",
+      "session": "2017",
+      "classnum": "2",
+      "sno": "10004",
+      "sname": "马杰",
+      "tel": "14555786347",
+      "isGetJob": "是"
+
+    }, {
+      "id": 10,
+      "marjor": "软件工程",
+      "session": "2017",
+      "classnum": "2",
+      "sno": "10005",
+      "sname": "马杰",
+      "tel": "17895620347",
+      "isGetJob": "是"
+
+    }
+  ]
+}
